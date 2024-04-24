@@ -1,3 +1,3 @@
 # ManSeek
-School project that allows users to freely share whatever they want online.
+College project that allows users to freely share whatever they want online.
 
